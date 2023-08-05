@@ -10,7 +10,7 @@ Playgrounds:
 
 Topic and discussions:
 
-- [Pixi.js topic](https://www.html5gamedevs.com/topic/52751-basic-examples-of-using-box2d-wasm-with-melonjs-in-javascript/)
+- [Pixi.js topic](https://www.html5gamedevs.com/topic/52752-basic-examples-of-using-box2d-wasm-with-pixijs-in-javascript/)
 - [Pixi.js discussion](https://github.com/pixijs/pixijs/discussions/9585)
 - [Box2D-WASM discussion](https://github.com/Birch-san/box2d-wasm/discussions/69)
 
